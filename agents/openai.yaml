@@ -1,0 +1,4 @@
+interface:
+  display_name: "HyperFrames Data Video"
+  short_description: "Turn data reports into verified business videos"
+  default_prompt: "Use $hyperframes-data-video to turn this dataset into a polished horizontal data video."
